@@ -1,14 +1,14 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'com.github.jakob-grabner'
+group = 'com.github.max-mobility'
 android {
 	compileSdkVersion 28
 	defaultConfig {
 		minSdkVersion 19
 		targetSdkVersion 28
 		versionCode 5
-		versionName "1.4"
+		versionName "2.0"
 	}
 	buildTypes {
 		release {
